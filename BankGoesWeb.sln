@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankGoesWeb", "BankGoesWeb\BankGoesWeb.csproj", "{D0A59820-EE0E-4AAF-9DF8-C424E533A42B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankGoesWebModel", "BankGoesWebModel\BankGoesWebModel.csproj", "{EF90D56A-F451-4736-8789-34196D7E0A61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0A59820-EE0E-4AAF-9DF8-C424E533A42B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0A59820-EE0E-4AAF-9DF8-C424E533A42B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0A59820-EE0E-4AAF-9DF8-C424E533A42B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0A59820-EE0E-4AAF-9DF8-C424E533A42B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF90D56A-F451-4736-8789-34196D7E0A61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF90D56A-F451-4736-8789-34196D7E0A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF90D56A-F451-4736-8789-34196D7E0A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF90D56A-F451-4736-8789-34196D7E0A61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FCF9859-86B2-4420-A5E8-E451772559ED}
+	EndGlobalSection
+EndGlobal

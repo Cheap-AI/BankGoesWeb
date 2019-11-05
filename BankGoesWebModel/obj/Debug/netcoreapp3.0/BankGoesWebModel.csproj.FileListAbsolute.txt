@@ -1,0 +1,8 @@
+C:\Users\james\source\repos\BankGoesWeb\BankGoesWebModel\bin\Debug\netcoreapp3.0\BankGoesWebModel.deps.json
+C:\Users\james\source\repos\BankGoesWeb\BankGoesWebModel\bin\Debug\netcoreapp3.0\BankGoesWebModel.dll
+C:\Users\james\source\repos\BankGoesWeb\BankGoesWebModel\bin\Debug\netcoreapp3.0\BankGoesWebModel.pdb
+C:\Users\james\source\repos\BankGoesWeb\BankGoesWebModel\obj\Debug\netcoreapp3.0\BankGoesWebModel.AssemblyInfoInputs.cache
+C:\Users\james\source\repos\BankGoesWeb\BankGoesWebModel\obj\Debug\netcoreapp3.0\BankGoesWebModel.AssemblyInfo.cs
+C:\Users\james\source\repos\BankGoesWeb\BankGoesWebModel\obj\Debug\netcoreapp3.0\BankGoesWebModel.dll
+C:\Users\james\source\repos\BankGoesWeb\BankGoesWebModel\obj\Debug\netcoreapp3.0\BankGoesWebModel.pdb
+C:\Users\james\source\repos\BankGoesWeb\BankGoesWebModel\obj\Debug\netcoreapp3.0\BankGoesWebModel.csprojAssemblyReference.cache
